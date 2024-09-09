@@ -10,7 +10,7 @@ description: “Bakwan jagung adalah camilan berbahan dasar jagung dan tepung da
 ---
 **BAHAN**
 
-2 buah jagung → pipil, haluskan dengan ½ bagian
+2 buah jagung → pipil, haluskan ½ bagian
 
 6 buah bawang merah → haluskan
 
@@ -39,8 +39,6 @@ description: “Bakwan jagung adalah camilan berbahan dasar jagung dan tepung da
 100 ml air dingin
 
 Minyak goreng
-
-
 
 **CARA MEMBUAT**
 
