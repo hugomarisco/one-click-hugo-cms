@@ -31,6 +31,8 @@ description: “Orek tempe merupakan makanan khas Indonesia, tepatnya hidangan
 
 ½ sendok makan saus tiram
 
+¼ sendok teh lada
+
 ¼ sendok teh kaldu ayam (opsional)
 
 Secukupnya biji wijen yang sudah disangrai (opsional)
