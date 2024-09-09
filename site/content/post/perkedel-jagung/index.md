@@ -8,7 +8,7 @@ description: “Bakwan jagung adalah camilan berbahan dasar jagung dan tepung da
   hasil panen jagung. Salah satu olahan jagung yang mudah dibuat adalah bakwan
   jagung.”
 ---
-**BAHAN**
+*Yang harus dipersiapkan..*
 
 2 buah jagung → pipil, haluskan ½ bagian
 
@@ -40,7 +40,9 @@ description: “Bakwan jagung adalah camilan berbahan dasar jagung dan tepung da
 
 Minyak goreng
 
-**CARA MEMBUAT**
+
+
+*Cara membuatnya..*
 
 Campurkan semua bahan kecuali tepung terigu, tepung beras dan air di dalam wadah. Aduk merata.
 
