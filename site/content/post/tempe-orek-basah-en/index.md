@@ -1,5 +1,5 @@
 ---
-title: TEMPE OREK BASAH (EN)
+title: WET TEMPE OREK
 date: 2024-09-09T07:55:29.384Z
 description: “Orek tempe is a beloved Indonesian dish from Java, where tempe is
   diced or sliced and cooked with a unique blend of palm sugar and tamarind.
