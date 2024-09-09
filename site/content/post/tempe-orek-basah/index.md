@@ -5,7 +5,7 @@ description: “Orek tempe merupakan makanan khas Indonesia, tepatnya hidangan
   tanah Jawa yang terbuat dari tempe yang dipotong baik dadu maupun diiris
   batang dan dimasak dengan bumbu khas yakni gula jawa dan asam jawa.”
 ---
-*Yang harus dipersiapkan..*
+**Yang harus dipersiapkan...**
 
 1 papan tempe
 
@@ -39,9 +39,7 @@ Secukupnya biji wijen yang sudah disangrai (opsional)
 
 300 ml air
 
-
-
-*Cara membuatnya..*
+**Cara membuatnya...**
 
 Iris halus bawang merah, bawang putih, cabai rawit merah, cabe merah besar. Sisihkan.
 
