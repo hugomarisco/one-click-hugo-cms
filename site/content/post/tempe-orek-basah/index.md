@@ -1,9 +1,9 @@
 ---
-title: Tempe Orek Basah
+title: TEMPE OREK BASAH
 date: 2024-09-08T14:50:07.769Z
-description: Orek tempe adalah makanan tradisional yang mudah dibuat di rumah.
-  Berasal dari tanah Jawa, ini adalah olahan tempe yang dipotong-potong kecil
-  dan dimasak dengan gula serta kecap.
+description: “Orek tempe merupakan makanan khas Indonesia, tepatnya hidangan
+  tanah Jawa yang terbuat dari tempe yang dipotong baik dadu maupun diiris
+  batang dan dimasak dengan bumbu khas yakni gula jawa dan asam jawa.”
 ---
 **BAHAN**
 
