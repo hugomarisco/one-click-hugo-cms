@@ -52,4 +52,4 @@ Panaskan minyak goreng dan goreng adonan perkedel jagung hingga coklat keemasan.
 
 Angkat, tiriskan, dan masakan siap disajikan.\
 \
-*“Resep ini bikin jagung manis jadi camilan renyah dan keemasan yang enak banget. Cocok banget sebagai camilan atau lauk pendamping, perkedel jagung ini pasti bakal bikin meja makanmu lebih berwarna. Selamat menikmati kreasi tastiliciousmu!”*
+*“Resep ini bikin jagung manis jadi camilan renyah yang enak banget. Cocok banget sebagai camilan atau lauk pendamping, perkedel jagung ini pasti bakal bikin meja makanmu lebih berwarna. Selamat menikmati kreasi tastiliciousmu!”*
