@@ -27,7 +27,7 @@ description: “Corn fritter (bakwan jagung) is a tasty snack with Spanish and
 
 ½ teaspoon sugar
 
-½ teaspoon chicken bouillon
+½ teaspoon chicken bouillon (optional)
 
 ¼ teaspoon black pepper
 
@@ -38,8 +38,6 @@ description: “Corn fritter (bakwan jagung) is a tasty snack with Spanish and
 100 ml cold water
 
 Cooking oil
-
-
 
 **How to make...**
 
