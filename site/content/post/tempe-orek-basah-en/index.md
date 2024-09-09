@@ -32,6 +32,8 @@ description: “Orek tempe is a beloved Indonesian dish from Java, where tempe i
 
 ½ tablespoon oyster sauce
 
+¼ teaspoon pepper (white/black)
+
 ¼ teaspoon chicken bouillon (optional)
 
 Sesame seeds (toasted, optional)
@@ -39,8 +41,6 @@ Sesame seeds (toasted, optional)
 300 ml water
 
 Cooking oil
-
-
 
 **How to make...**
 
@@ -59,7 +59,5 @@ Add the sliced small red chilies, large red chili, and chicken bouillon (if usin
 Sprinkle with toasted sesame seeds if desired, stir, and turn off the heat.
 
 Serve and enjoy!
-
-
 
 *This recipe transforms classic tempe into a deliciously tangy and spicy treat that’s packed with flavor! Perfect for adding a bit of zest to your meal. Enjoy your tastilicious creation!*
