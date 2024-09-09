@@ -51,4 +51,4 @@ Heat the cooking oil and fry spoonful of the corn mixture until golden brown.
 
 Remove, drain, and serve warm.\
 \
-*“This recipe turns sweet corn into a crispy, golden delight that's both savory and satisfying. Perfect as a snack or a side dish, these fritters are sure to bring a burst of flavor to your table. Enjoy your tastilicious creation!”*
+*“This recipe turns sweet corn into a crispy delight that's both savory and satisfying. Perfect as a snack or a side dish, these fritters are sure to bring a burst of flavor to your table. Enjoy your tastilicious creation!”*
