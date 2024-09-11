@@ -21,7 +21,7 @@ description: “Tempe Orek is a beloved Indonesian dish from Java, where tempe i
 1 tablespoon soy sauce\
 ½ tablespoon oyster sauce\
 ¼ teaspoon pepper (white/black)\
-¼ teaspoon chicken bouillon (optional)\
+¼ teaspoon bouillon powder (optional)\
 Sesame seeds (toasted, optional)\
 300 ml water\
 Cooking oil
