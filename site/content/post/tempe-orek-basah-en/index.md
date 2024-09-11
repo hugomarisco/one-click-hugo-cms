@@ -6,7 +6,7 @@ description: “Tempe Orek is a beloved Indonesian dish from Java, where tempe i
   It’s a flavorful, savory classic that captures the heart of traditional
   Javanese cuisine.”
 ---
-**What to prepare...**
+#### **What to prepare...**
 
 1 block of tempe\
 4 red shallots\
@@ -26,7 +26,7 @@ Sesame seeds (toasted, optional)\
 300 ml water\
 Cooking oil
 
-**How to make...**
+#### **How to make...**
 
 1. Finely slice the red shallots, garlic, small red chilies, and large red chili. Set aside.
 2. Slice the tempe as desired and fry until golden brown. Remove and drain.
