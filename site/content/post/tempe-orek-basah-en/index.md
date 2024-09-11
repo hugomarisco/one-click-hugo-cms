@@ -1,7 +1,7 @@
 ---
-title: WET TEMPE OREK
+title: TEMPE OREK (wet version)
 date: 2024-09-09T07:55:29.384Z
-description: “Orek tempe is a beloved Indonesian dish from Java, where tempe is
+description: “Tempe Orek is a beloved Indonesian dish from Java, where tempe is
   diced or sliced and cooked with a unique blend of palm sugar and tamarind.
   It’s a flavorful, savory classic that captures the heart of traditional
   Javanese cuisine.”
