@@ -44,3 +44,7 @@ description: “Babi Kecap is an Indonesian pork dish cooked in delicious, rich
 5. Setelah itu masukkan kecap manis, aduk hingga masakan sedikit terkaramelisasi. Setelah itu masukkan air dan masak hingga daging hampir empuk.
 6. Masukkan tahu putih dan cabai rawit dan cabai merah besar, aduk merata. Masak hingga air tersisah sedikit dan minyak keluar.
 7. Matikan api, angkat dan sajikan.
+
+
+
+*"Babi Kecap tastilicious kamu sudah jadi! Dagingnya empuk, sausnya kaya rasa, dan ada sedikit sentuhan pedas—hidangan ini benar-benar penuh kelezatan. Sajikan dengan nasi biar makin mantap!"*
