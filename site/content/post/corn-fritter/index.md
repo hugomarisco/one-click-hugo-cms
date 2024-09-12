@@ -11,7 +11,7 @@ description: “Corn fritter (bakwan jagung) is a tasty snack with Spanish and
 
 2 ears of corn → kernels removed, half finely blended
 
-6 red shallots → finely blended
+6 shallots → finely blended
 
 3 cloves garlic → finely blended
 
