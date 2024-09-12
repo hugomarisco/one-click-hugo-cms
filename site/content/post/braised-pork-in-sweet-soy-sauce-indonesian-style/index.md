@@ -35,8 +35,6 @@ description: “Babi Kecap is an Indonesian pork dish cooked in delicious, rich
 3 bird’s eye chilies → sliced (adjust to taste)\
 2 large red chilies → sliced (adjust to taste)
 
-
-
 **How to make…**
 
 Marinate the pork with salt and lime juice, and let it sit for at least 15 minutes.
@@ -53,6 +51,4 @@ Add the white tofu, bird’s eye chilies, and large red chilies, stirring well. 
 
 Turn off the heat, remove from the pan, and serve.
 
-
-
-*"Your tastilicious Babi Kecap is done! Tender pork, rich sauce, and just the right kick of spice—this dish is an absolute flavor bomb. Serve it with rice for a truly satisfying meal!"*
+*"Your tastilicious Babi Kecap is done! Tender pork, rich sauce, and just the right kick of spice — this dish is an absolute flavor bomb. Serve it with rice for a truly satisfying meal!"*
