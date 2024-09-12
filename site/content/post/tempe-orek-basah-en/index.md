@@ -9,10 +9,10 @@ description: “Tempe Orek is a beloved Indonesian dish from Java, where tempe i
 #### **What to prepare...**
 
 1 block of tempe\
-4 red shallots\
+4 shallots\
 2 cloves of garlic\
-4 small red chilies\
-1 large red chili\
+4 bird's eye chilies → adjust to taste\
+1 large red chili → adjust to taste\
 2 bay leaves\
 2 kaffir lime leaves\
 1 teaspoon tamarind paste → *mix with 4 tablespoons hot water, strain, and use the liquid*\
