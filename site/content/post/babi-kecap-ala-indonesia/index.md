@@ -42,9 +42,7 @@ description: “Babi Kecap adalah hidangan babi khas Indonesia yang dimasak deng
 3. Setelah harum masukkan sereh, daun salam, daun jeruk, ketumbar, pala, lada, bunga lawang, dan kayu manis. Aduk-aduk sebentar lalu masukkan kecap asin, saus tiram, dan gula merah/aren, aduk kembali.
 4. Kemudian masukkan daging babi yang sudah dimarinasi, aduk merata dan masak sampai keluar sedikit minyak.
 5. Setelah itu masukkan kecap manis, aduk hingga masakan sedikit terkaramelisasi. Setelah itu masukkan air dan masak hingga daging hampir empuk.
-6. Masukkan tahu putih dan cabai rawit dan cabai merah besar, aduk merata. Masak hingga air tersisah sedikit dan minyak keluar.
+6. Masukkan tahu putih, cabai rawit, dan cabai merah besar, aduk merata. Masak hingga air tersisah sedikit dan minyak keluar.
 7. Matikan api, angkat dan sajikan.
-
-
 
 *"Babi Kecap tastilicious kamu sudah jadi! Dagingnya empuk, sausnya kaya rasa, dan ada sedikit sentuhan pedas—hidangan ini benar-benar penuh kelezatan. Sajikan dengan nasi biar makin mantap!"*
