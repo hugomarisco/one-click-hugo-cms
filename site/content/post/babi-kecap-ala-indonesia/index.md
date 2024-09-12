@@ -1,12 +1,12 @@
 ---
 title: BABI KECAP (ala Indonesia)
 date: 2024-09-12T07:00:11.602Z
-description: “Babi Kecap is an Indonesian pork dish cooked in delicious, rich
-  sweet soy sauce. Although it originates from Southern Chinese cuisine, Babi
-  Kecap has become a favorite in Indonesia thanks to the unique sweetness of the
-  kecap manis. Typically, pork belly is slowly braised in sweet soy sauce,
-  combined with garlic, shallots, and a little salt, resulting in a warm,
-  fragrant dish perfect for any occasion.”
+description: “Babi Kecap adalah hidangan babi khas Indonesia yang dimasak dengan
+  kecap manis yang enak dan kaya rasa. Meskipun asalnya dari masakan Tiongkok
+  Selatan, Babi Kecap ini jadi favorit di Indonesia berkat rasa manis khas kecap
+  manisnya. Biasanya, potongan perut babi direbus pelan-pelan dalam kecap manis,
+  dicampur dengan bawang putih, bawang merah, dan sedikit garam, menghasilkan
+  hidangan yang hangat, harum, dan cocok untuk segala kesempatan.”
 ---
 **Yang harus dipersiapkan..**
 
