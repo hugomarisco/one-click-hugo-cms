@@ -1,5 +1,5 @@
 ---
-title: CORN FRITTER
+title: Corn Fritter
 date: 2024-09-09T08:08:07.867Z
 description: “Corn fritter (bakwan jagung) is a tasty snack with Spanish and
   Portuguese influences. Corn, native to the Americas, was introduced to
